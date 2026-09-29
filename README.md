@@ -1,8 +1,10 @@
 <div align="center">
 
-# Naseef
-
-### Full Stack & Mobile Developer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" alt="Naseef - Full Stack Engineer" width="700">
+</picture>
 
 **MSc in Artificial Intelligence** &nbsp;·&nbsp; **3+ Years of Industry Experience**
 
